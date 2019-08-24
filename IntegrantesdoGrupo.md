@@ -1,6 +1,6 @@
 Integrantes do Grupo:
 
-1-Ludmila Sofe
+1-Ludimila S. Ferreira 12/012834
 
 2-Mayra Carvalho
 
