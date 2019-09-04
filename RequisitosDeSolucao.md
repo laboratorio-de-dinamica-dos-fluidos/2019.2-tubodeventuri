@@ -26,4 +26,4 @@ Informações adicionais serão:
 
 2- Durante o experimento, a variação de altura do fluido no tubo terá de ser determinada;
 
-![alt text](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiWuLSflrjkAhUNJrkGHbuoD1IQjRx6BAgBEAQ&url=http%3A%2F%2Fmecanicadosfluidos1.blogspot.com%2F2015%2F04%2Ftubo-venturi.html&psig=AOvVaw3OUKyOZFMmX7BOPqQL8Tg2&ust=1567721061759148)
+![alt text](http://1.bp.blogspot.com/-lchp2UI4fHo/VSl2spb5SDI/AAAAAAAAC04/arjO0FR3PKw/s1600/Capturar1F.PNG)
