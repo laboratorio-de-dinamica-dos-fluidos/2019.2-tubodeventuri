@@ -26,4 +26,6 @@ Informações adicionais serão:
 
 2- Durante o experimento, a variação de altura do fluido no tubo terá de ser determinada;
 
+Exemplificação do experimento que será reproduzido para alcançar os objetivos de medir a vazão e a velocidade de escoamento:
+
 ![alt text](http://1.bp.blogspot.com/-lchp2UI4fHo/VSl2spb5SDI/AAAAAAAAC04/arjO0FR3PKw/s1600/Capturar1F.PNG)
