@@ -29,3 +29,6 @@ Informações adicionais serão:
 Exemplificação do experimento que será reproduzido para alcançar os objetivos de medir a vazão e a velocidade de escoamento:
 
 ![alt text](http://1.bp.blogspot.com/-lchp2UI4fHo/VSl2spb5SDI/AAAAAAAAC04/arjO0FR3PKw/s1600/Capturar1F.PNG)
+
+
+Para a parte experimental do tubo de venturi, será necessário um tunel de vento acoplado a um manometro de altura de forma parecida a imagem. Para isto pode ser averiguado se o tunel de vento do laboratório de termofluidos se encaixa nos requisitos, mas o mesmo pode ser confeccionado por meio de vídeos de instruções ja pesquisados pelo grupo.
