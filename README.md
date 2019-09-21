@@ -43,7 +43,7 @@ Exemplificação do experimento que será reproduzido para alcançar os objetivo
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSCr4d9JutDYcGWSCqyN3KcO0PGCvsFA-K1tTpWOEKTBsRYfOHJ">
 
-Para a parte experimental do tubo de venturi, será necessário um túnel de vento acoplado a um manômetro de altura de forma parecida a imagem. Para isto pode ser averiguado se o túnel de vento do laboratório de termofluidos se encaixa nos requisitos, mas o mesmo pode ser confeccionado por meio de vídeos de instruções já pesquisados pelo grupo.
+Para a parte experimental do tubo de Venturi, será necessário um túnel de vento acoplado a um manômetro de altura de forma parecida a imagem. Para isto pode ser averiguado se o túnel de vento do laboratório de termofluidos se encaixa nos requisitos, mas o mesmo pode ser confeccionado por meio de vídeos de instruções já pesquisados pelo grupo.
 
 # Escopo do Experimento
 
