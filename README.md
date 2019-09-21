@@ -22,15 +22,11 @@ Este experimento tem o intuito de medir a velocidade de escoamento e a vazão de
 
 Primeiramente o para conseguirmos todas as medições necessárias para que os objetivos se concretizem, adotaremos certa condicões simplificadoras:
 
-1 - Escoamento permanente;
-
-2 - Escoamento incompressível;
-
-3 - O escoamento será tomado ao longo de uma linha de corrente;
-
-4 - Desprezar o atrito;
-
-5 - Tubulação disposta horizontalmente;
+1. Escoamento permanente;
+2. Escoamento incompressível;
+3. O escoamento será tomado ao longo de uma linha de corrente;
+4. Desprezar o atrito;
+5. Tubulação disposta horizontalmente;
 
 As equações básicas que serão usadas para alcançar as soluções serão:
 
