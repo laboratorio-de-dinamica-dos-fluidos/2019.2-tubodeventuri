@@ -26,18 +26,18 @@ Primeiramente o para conseguirmos todas as medições necessárias para que os o
 2. Escoamento incompressível;
 3. O escoamento será tomado ao longo de uma linha de corrente;
 4. Desprezar o atrito;
-5. Tubulação disposta horizontalmente;
+5. Tubulação disposta horizontalmente.
 
 As equações básicas que serão usadas para alcançar as soluções serão:
 
 1. Equação de Continuidade;
 2. Equação de Bernoulli;
-3. Equação de Vazão;
+3. Equação de Vazão.
 
 Informações adicionais serão:
 
 1. Área da seção transversal do tanque;
-2. Durante o experimento, a variação de altura do fluido no tubo terá de ser determinada;
+2. Durante o experimento, a variação de altura do fluido no tubo terá de ser determinada.
 
 Exemplificação do experimento que será reproduzido para alcançar os objetivos de medir a vazão e a velocidade de escoamento:
 
@@ -72,15 +72,15 @@ O tempo estimado para a realização do experimento será de duas semanas, nas q
 
 3 - Execução do experimento: 
 
-* Procedimento: Samara, Rafael; 
+*Procedimento: Samara, Rafael; 
 
-* Coleta de dados: Mayra;
+*Coleta de dados: Mayra.
 
 - Cronograma
 
-09/09 - 13/09: Levantamento de dados
+09/09 - 13/09: Levantamento de dados;
 
-16/09 - 27/09: Montagem e execução do experimento
+16/09 - 27/09: Montagem e execução do experimento;
 
 30/09 - 30/10: Cálculos e elaboração do relatório final.
 
@@ -115,4 +115,6 @@ A divisão de tarefas permanece a mesma descrita na etapa 2. A montagem do exper
 
 *Procedimento: Samara, Rafael; 
 
-*Coleta de dados: Mayra;
+*Coleta de dados: Mayra.
+
+# Descrição dos Procedimentos Realizados
