@@ -32,13 +32,13 @@ Primeiramente o para conseguirmos todas as medições necessárias para que os o
 
 5 - Tubulação disposta horizontalmente;
 
-As equacões basicas que serão usadas para alcançar a soluções serão:
+As equacões básicas que serão usadas para alcançar as soluções serão:
 
-1 - Equação de continuidade;
+1 - Equação de Continuidade;
 
 2 - Equação de Bernoulli;
 
-3 - Equação de vazão;
+3 - Equação de Vazão;
 
 Informações adicionais serão:
 
@@ -89,15 +89,12 @@ O tempo estimado para a realização do experimento será de duas semanas, nas q
 
 30/09 - 30/10: Cálculos e elaboração do relatório final.
 
-# Dados a serem medidos e calculados
+# Dados A Serem Medidos e/ou Calculados
 
 O tubo de Venturi ou medidor de Venturi é um aparato criado para medir a velocidade do escoamento
-e a vazão de um líquido incompressível
-através da variação da pressão durante a passagem deste líquido por um tubo de seção
-mais larga e depois por outro de seção mais estreita. Este efeito é explicado pelo
-princípio de Bernoulli e no princípio da continuidade da massa. Se o fluxo de um fluido
-é constante, mas sua área de escoamento diminui então necessariamente sua velocidade
-aumenta. Para o teorema a conservação da energia se a energia cinética aumenta, a
+e a vazão de um líquido incompressível através da variação da pressão durante a passagem deste líquido por um tubo de seção
+mais larga e depois por outro de seção mais estreita. Este efeito é explicado pelo princípio de Bernoulli e do Princípio da Continuidade da Massa. Se o fluxo de um fluido
+é constante, mas sua área de escoamento diminui então necessariamente sua velocidade aumenta. Para o teorema a conservação da energia se a energia cinética aumenta, a
 energia determinada pelo valor da pressão diminui.
 
 Vazão (R) é o volume de determinado fluido que passa por uma determinada secção de
@@ -106,6 +103,10 @@ que um volume escoa pode ser dada pelas equações:
 
 * R=∆V/∆t (variação de volume sobre variação do tempo)
 * R=A.V (área da secção vezes volume)
+
+# Resultados Esperados
+
+Os resultados esperados correspondem à variação de pressão do fluido, e consequentemente, à determinação da velocidade e da vazão do escoamento.
 
 # 3. Execução
 
