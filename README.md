@@ -30,17 +30,14 @@ Primeiramente o para conseguirmos todas as medições necessárias para que os o
 
 As equações básicas que serão usadas para alcançar as soluções serão:
 
-1 - Equação de Continuidade;
-
-2 - Equação de Bernoulli;
-
-3 - Equação de Vazão;
+1. Equação de Continuidade;
+2. Equação de Bernoulli;
+3. Equação de Vazão;
 
 Informações adicionais serão:
 
-1 - Área da seção transversal do tanque;
-
-2 - Durante o experimento, a variação de altura do fluido no tubo terá de ser determinada;
+1. Área da seção transversal do tanque;
+2. Durante o experimento, a variação de altura do fluido no tubo terá de ser determinada;
 
 Exemplificação do experimento que será reproduzido para alcançar os objetivos de medir a vazão e a velocidade de escoamento:
 
@@ -75,9 +72,9 @@ O tempo estimado para a realização do experimento será de duas semanas, nas q
 
 3 - Execução do experimento: 
 
-*Procedimento: Samara, Rafael; 
+* Procedimento: Samara, Rafael; 
 
-*Coleta de dados: Mayra;
+* Coleta de dados: Mayra;
 
 - Cronograma
 
