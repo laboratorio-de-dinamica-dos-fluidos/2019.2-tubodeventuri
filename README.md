@@ -1,6 +1,6 @@
 # 2019.2-tubodeventuri
 
-# Tema Escolhido: Experimento do Tubo de Venturi.
+# Tema Escolhido: Experimento do Tubo de Venturi
 
 # 1. Início
 
