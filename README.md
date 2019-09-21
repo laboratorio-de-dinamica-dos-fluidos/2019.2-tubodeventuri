@@ -2,7 +2,7 @@
 
 # Tema Escolhido: Experimento do Tubo de Venturi.
 
-# 1.Início
+# 1. Início
 
 # Integrantes
 
@@ -18,32 +18,25 @@ Este experimento tem o intuito de medir a velocidade de escoamento e a vazão de
 
 # Requisitos de Solução
 
-Avaliação de possíveis soluções para cumprir os objetivos do sistema:
+- Avaliação de possíveis soluções para cumprir os objetivos do sistema:
 
 Primeiramente o para conseguirmos todas as medições necessárias para que os objetivos se concretizem, adotaremos certa condicões simplificadoras:
 
 1- Escoamento permanente;
-
 2- Escoamento incompressível;
-
 3- O escoamento será tomado ao longo de uma linha de corrente;
-
 4- Desprezar o atrito;
-
 5- Tubulação disposta horizontalmente;
 
 As equacões basicas que serão usadas para alcançar a soluções serão:
 
 1- Equação de continuidade;
-
 2- Equação de Bernoulli;
-
 3- Equação de vazão;
 
 Informações adicionais serão:
 
 1- Área da seção transversal do tanque;
-
 2- Durante o experimento, a variação de altura do fluido no tubo terá de ser determinada;
 
 Exemplificação do experimento que será reproduzido para alcançar os objetivos de medir a vazão e a velocidade de escoamento:
@@ -52,7 +45,7 @@ Para a parte experimental do tubo de venturi, será necessário um túnel de ven
 
 # Escopo do Experimento
 
-Estabelecimento de tarefas necessárias para a execução do experimento:
+- Estabelecimento de tarefas necessárias para a execução do experimento:
 
 A primeira etapa consiste em aprofundar a base teórica sobre o funcionamento do tubo de Venturi, e sobre os fenômenos físicos a serem estudados, a partir dos princípios de Bernoulli, e da continuidade de massa. A etapa seguinte consiste no planejamento da construção do tubo de Venturi, e na definição dos materiais a serem utilizados. Posteriormente, segue a etapa da construção do tubo de Venturi. As últimas etapas consistem no levantamento de dados e variáveis para os cálculos a serem realizados, e por fim a realização do experimento no Laboratório de Termofluidos.
 
@@ -71,13 +64,12 @@ O tempo estimado para a realização do experimento será de duas semanas, nas q
 
 - Responsabilidades dos membros:
 
-Aquisição dos itens: Rafael;
-
-Montagem do experimento: Todos;
-
-Execução do experimento: 
+1 - Aquisição dos itens: Rafael;
+2 - Montagem do experimento: Todos;
+3 - Execução do experimento: 
 
 *Procedimento: Samara, Rafael; 
+
 *Coleta de dados: Mayra;
 
 - Cronograma
@@ -86,7 +78,7 @@ Execução do experimento:
 
 16/09 - 27/09: Montagem e execução do experimento
 
-30/09 - 04/11: Cálculos e elaboração do relatório final.
+30/09 - 30/10: Cálculos e elaboração do relatório final.
 
 # Dados a serem medidos e calculados
 
@@ -108,4 +100,8 @@ Pode ser dada pelas equações:
 * R=A.V (área da secção vezes volume)
 
 # 3. Execução
+
+# Divisão de Tarefas
+
+A divisão de tarefas permanece a mesma descrita na etapa 2.
 
