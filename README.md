@@ -91,7 +91,7 @@ O tempo estimado para a realização do experimento será de duas semanas, nas q
 
 30/09 - 30/10: Cálculos e elaboração do relatório final.
 
-# Dados A Serem Medidos e/ou Calculados
+# Dados a Serem Medidos e/ou Calculados
 
 O tubo de Venturi ou medidor de Venturi é um aparato criado para medir a velocidade do escoamento
 e a vazão de um líquido incompressível através da variação da pressão durante a passagem deste líquido por um tubo de seção
