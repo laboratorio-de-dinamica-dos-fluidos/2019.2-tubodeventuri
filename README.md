@@ -2,7 +2,7 @@
 
 # Tema Escolhido: Experimento do Tubo de Venturi.
 
-# Etapa 1
+# 1.Início
 
 # Integrantes
 
@@ -60,3 +60,52 @@ A primeira etapa consiste em aprofundar a base teórica sobre o funcionamento do
 
 O experimento escolhido pelo grupo é viavel pois nas dependências da faculdade, há um túnel de vento com manômetros de altura, disponíveis para uso no laboratório de termofluidos. Entretanto também podemos construir um tubo de venturi de forma mais rústica, utilizando garrafa pet, secador de cabelo, fluido previamente determinado de preferencia não viscoso, e argamassa.
 Estima-se que após o levantamento teórico do tema, levaremos 2 semanas para a confecção do tubo de venturi, e execução do experimento.
+
+# 2. Planejamento e Preparação
+
+# Procedimentos Experimentais
+
+- Estimativa do tempo necessário para a montagem e execução do procedimento:
+
+O tempo estimado para a realização do experimento será de duas semanas, nas quais serão feitas a montagem do tubo de Venturi, e o agendamento para a utilização do Laboratório de Termofluidos para a execução do experimento, tendo o tempo estimado de 2 horas para a conclusão deste.
+
+- Responsabilidades dos membros:
+
+Aquisição dos itens: Rafael;
+
+Montagem do experimento: Todos;
+
+Execução do experimento: 
+
+*Procedimento: Samara, Rafael; 
+*Coleta de dados: Mayra;
+
+- Cronograma
+
+09/09 - 13/09: Levantamento de dados
+
+16/09 - 27/09: Montagem e execução do experimento
+
+30/09 - 04/11: Cálculos e elaboração do relatório final.
+
+# Dados a serem medidos e calculados
+
+O tubo de Venturi ou medidor de Venturi é um aparato criado para medir a velocidade do escoamento
+e a vazão de um líquido incompressível
+através da variação da pressão durante a passagem deste líquido por um tubo de seção
+mais larga e depois por outro de seção mais estreita. Este efeito é explicado pelo
+princípio de Bernoulli e no princípio da continuidade da massa. Se o fluxo de um fluido
+é constante, mas sua área de escoamento diminui então necessariamente sua velocidade
+aumenta. Para o teorema a conservação da energia se a energia cinética aumenta, a
+energia determinada pelo valor da pressão diminui.
+
+Vazão (R) é o volume de determinado fluido que passa por uma determinada secção de
+um conduto livre ou forçado, por uma unidade de tempo. Sendo assim, a rapidez com
+que um volume escoa.
+Pode ser dada pelas equações:
+
+* R=∆V/∆t (variação de volume sobre variação do tempo)
+* R=A.V (área da secção vezes volume)
+
+# 3. Execução
+
