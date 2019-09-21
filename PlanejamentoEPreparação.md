@@ -18,4 +18,4 @@ Cronograma
 
 16/09 - 27/09: Montagem e execução do experimento
 
-30/09 - 04/11: Cálculos e elaboração do relatório final.
+30/09 - 30/10: Cálculos e elaboração do relatório final.
