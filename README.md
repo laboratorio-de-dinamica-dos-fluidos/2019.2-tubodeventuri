@@ -32,7 +32,7 @@ Primeiramente o para conseguirmos todas as medições necessárias para que os o
 
 5 - Tubulação disposta horizontalmente;
 
-As equacões básicas que serão usadas para alcançar as soluções serão:
+As equações básicas que serão usadas para alcançar as soluções serão:
 
 1 - Equação de Continuidade;
 
@@ -47,6 +47,7 @@ Informações adicionais serão:
 2 - Durante o experimento, a variação de altura do fluido no tubo terá de ser determinada;
 
 Exemplificação do experimento que será reproduzido para alcançar os objetivos de medir a vazão e a velocidade de escoamento:
+
 
 Para a parte experimental do tubo de venturi, será necessário um túnel de vento acoplado a um manômetro de altura de forma parecida a imagem. Para isto pode ser averiguado se o túnel de vento do laboratório de termofluidos se encaixa nos requisitos, mas o mesmo pode ser confeccionado por meio de vídeos de instruções já pesquisados pelo grupo.
 
@@ -93,9 +94,7 @@ O tempo estimado para a realização do experimento será de duas semanas, nas q
 
 O tubo de Venturi ou medidor de Venturi é um aparato criado para medir a velocidade do escoamento
 e a vazão de um líquido incompressível através da variação da pressão durante a passagem deste líquido por um tubo de seção
-mais larga e depois por outro de seção mais estreita. Este efeito é explicado pelo princípio de Bernoulli e do Princípio da Continuidade da Massa. Se o fluxo de um fluido
-é constante, mas sua área de escoamento diminui então necessariamente sua velocidade aumenta. Para o teorema a conservação da energia se a energia cinética aumenta, a
-energia determinada pelo valor da pressão diminui.
+mais larga e depois por outro de seção mais estreita. Este efeito é explicado pelo princípio de Bernoulli e do Princípio da Continuidade da Massa. Se o fluxo de um fluido é constante, mas sua área de escoamento diminui então necessariamente sua velocidade aumenta. Para o teorema a conservação da energia se a energia cinética aumenta, a energia determinada pelo valor da pressão diminui.
 
 Vazão (R) é o volume de determinado fluido que passa por uma determinada secção de
 um conduto livre ou forçado, por uma unidade de tempo. Sendo assim, a rapidez com
