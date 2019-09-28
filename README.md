@@ -118,3 +118,30 @@ A divisão de tarefas permanece a mesma descrita na etapa 2. A montagem do exper
 *Coleta de dados: Mayra.
 
 # Descrição dos Procedimentos Realizados
+
+- **Montagem**
+
+1. Materiais Utilizados
+
+![](20190925_093811.jpg)
+
+![](20190925_094105.jpg)
+
+2. Confecção do Tubo
+
+![](20190925_212452.jpg)
+
+![](20190925_212416.jpg)
+
+![](20190925_212507.jpg)
+
+![](20190925_194336.jpg)
+
+![](20190925_193238.jpg)
+
+- **Execução**
+
+![](20190925_194942.jpg)
+
+- **Dados Medidos**
+
