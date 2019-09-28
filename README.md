@@ -128,6 +128,7 @@ A divisão de tarefas permanece a mesma descrita na etapa 2. A montagem do exper
 - durepoxi
 - tesoura
 - fita isolante
+- fita adesiva
 - seringa
 - 2 caixas de papelão 
 - 3 ml de refrigerante
