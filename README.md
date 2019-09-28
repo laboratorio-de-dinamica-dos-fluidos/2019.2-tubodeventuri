@@ -161,7 +161,7 @@ A divisão de tarefas permanece a mesma descrita na etapa 2. A montagem do exper
 |Comprimento da mangueira|  27,0  |   
 |Altura                  |        |  
  
-|  Áreas  |  (cm^2)  |   
+|  Áreas  |   (cm²)  |   
 |---------|----------|
 |   A1    |   91,6   |   
 |   A2    |    4,9   |   
