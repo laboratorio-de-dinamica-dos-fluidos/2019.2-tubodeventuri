@@ -123,6 +123,15 @@ A divisão de tarefas permanece a mesma descrita na etapa 2. A montagem do exper
 
 ![](20190925_093811.jpg)
 
+- 2 garrafas PET
+- 1 mangueira
+- durepoxi
+- tesoura
+- fita isolante
+- seringa
+- 2 caixas de papelão 
+- 3 ml de refrigerante
+
 **2. Confecção do Tubo**
 
 ![](20190925_094105.jpg)
