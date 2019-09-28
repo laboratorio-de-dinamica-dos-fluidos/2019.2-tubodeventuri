@@ -66,12 +66,9 @@ O tempo estimado para a realização do experimento será de duas semanas, nas q
 
 ### Responsabilidades dos membros:
 
-1 - Aquisição dos itens: Rafael;
-
-2 - Montagem do experimento: Todos;
-
-3 - Execução do experimento: 
-
+1. Aquisição dos itens: Rafael;
+2. Montagem do experimento: Todos;
+3. Execução do experimento: 
 * Procedimento: Samara, Rafael; 
 * Coleta de dados: Mayra.
 
@@ -108,12 +105,9 @@ Os resultados esperados correspondem à variação de pressão do fluido, e cons
 
 A divisão de tarefas permanece a mesma descrita na etapa 2. A montagem do experimento será realizada por todos os membros. A execução será dividida em duas tarefas: a realização do procedimento experimental, e a coleta de dados.
 
-1 - Aquisição dos itens: Rafael;
-
-2 - Montagem do experimento: Todos;
-
-3 - Execução do experimento: 
-
+1. Aquisição dos itens: Rafael;
+2. Montagem do experimento: Todos;
+3. Execução do experimento: 
 * Procedimento: Samara, Rafael; 
 * Coleta de dados: Mayra.
 
