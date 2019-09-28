@@ -73,7 +73,6 @@ O tempo estimado para a realização do experimento será de duas semanas, nas q
 3 - Execução do experimento: 
 
 * Procedimento: Samara, Rafael; 
-
 * Coleta de dados: Mayra.
 
 ### Cronograma
@@ -114,18 +113,17 @@ A divisão de tarefas permanece a mesma descrita na etapa 2. A montagem do exper
 3 - Execução do experimento: 
 
 * Procedimento: Samara, Rafael; 
-
 * Coleta de dados: Mayra.
 
 # Descrição dos Procedimentos Realizados
 
 ### Montagem
 
-1. **Materiais Utilizados**
+**1. Materiais Utilizados**
 
 ![](20190925_093811.jpg)
 
-2. **Confecção do Tubo**
+**2. Confecção do Tubo**
 
 ![](20190925_094105.jpg)
 
@@ -143,6 +141,23 @@ A divisão de tarefas permanece a mesma descrita na etapa 2. A montagem do exper
 
 ![](20190925_194942.jpg)
 
-![](20190925_194727.mp4)
 ### Dados Medidos
+
+| Dimensões              |  (cm)  |  
+|------------------------|--------|
+|Diâmetro maior (A1)     |  10,8  |  
+|Diâmetro menor (A2)     |   2,5  |              
+|Diâmetro da mangueira   |   0,5  |
+|Comprimento da mangueira|  27,0  |   
+|Altura                  |        |  
+ 
+|  Áreas  |  (cm^2)  |   
+|---------|----------|
+|   A1    |   91,6   |   
+|   A2    |    4,9   |   
+
+| Volume do fluido  | Variação do fluido  |   
+|-------------------|---------------------|
+|      0,3 ml       |        0,5 cm       |   
+
 
