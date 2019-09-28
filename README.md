@@ -96,6 +96,8 @@ que um volume escoa pode ser dada pelas equações:
 * R=∆V/∆t (variação de volume sobre variação do tempo)
 * R=A.V (área da secção vezes volume)
 
+Os dados a serem medidos compreendem as áreas da seção do escoamento, a altura do tubo, e o volume de variação do fluido. A partir desses dados, será possível obter os valores referentes à velocidade, vazão do escoamento e variação de pressão.
+
 # Resultados Esperados
 
 Os resultados esperados correspondem à variação de pressão do fluido, e consequentemente, à determinação da velocidade e da vazão do escoamento.
@@ -132,6 +134,7 @@ A divisão de tarefas permanece a mesma descrita na etapa 2. A montagem do exper
 - seringa
 - 2 caixas de papelão 
 - 3 ml de refrigerante
+- 1 secador de cabelo
 
 **2. Confecção do Tubo**
 
