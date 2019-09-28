@@ -125,13 +125,13 @@ A divisão de tarefas permanece a mesma descrita na etapa 2. A montagem do exper
 
 ![](20190925_093811.jpg)
 
-![](20190925_094105.jpg)
-
 2. Confecção do Tubo
 
-![](20190925_212452.jpg)
+![](20190925_094105.jpg)
 
 ![](20190925_212416.jpg)
+
+![](20190925_212452.jpg)
 
 ![](20190925_212507.jpg)
 
