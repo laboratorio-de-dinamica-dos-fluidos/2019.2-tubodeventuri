@@ -93,8 +93,8 @@ Vazão (R) é o volume de determinado fluido que passa por uma determinada secç
 um conduto livre ou forçado, por uma unidade de tempo. Sendo assim, a rapidez com
 que um volume escoa pode ser dada pelas equações:
 
-* R=∆V/∆t (variação de volume sobre variação do tempo)
-* R=A.V (área da secção vezes volume)
+* R = ∆V/∆t (variação de volume sobre variação do tempo)
+* R = A.V (área da secção vezes volume)
 
 Os dados a serem medidos compreendem as áreas da seção do escoamento, a altura do tubo, e o volume de variação do fluido. A partir desses dados, será possível obter os valores referentes à velocidade, vazão do escoamento e variação de pressão.
 
