@@ -53,7 +53,7 @@ A primeira etapa consiste em aprofundar a base teórica sobre o funcionamento do
 
 # Avaliação de Viabilidade
 
-O experimento escolhido pelo grupo é viavel pois nas dependências da faculdade, há um túnel de vento com manômetros de altura, disponíveis para uso no laboratório de termofluidos. Entretanto também podemos construir um tubo de venturi de forma mais rústica, utilizando garrafa pet, secador de cabelo, fluido previamente determinado de preferencia não viscoso, e argamassa.
+O experimento escolhido pelo grupo é viavel pois nas dependências da faculdade, há um túnel de vento com manômetros de altura, disponíveis para uso no laboratório de termofluidos. Entretanto também podemos construir um tubo de venturi de forma mais rústica, utilizando garrafa pet, secador de cabelo, fluido previamente determinado de preferência não viscoso, e argamassa.
 Estima-se que após o levantamento teórico do tema, levaremos 2 semanas para a confecção do tubo de venturi, e execução do experimento.
 
 # 2. Planejamento e Preparação
@@ -119,7 +119,7 @@ A divisão de tarefas permanece a mesma descrita na etapa 2. A montagem do exper
 
 # Descrição dos Procedimentos Realizados
 
-- **Montagem**
+### Montagem
 
 1. Materiais Utilizados
 
@@ -139,9 +139,9 @@ A divisão de tarefas permanece a mesma descrita na etapa 2. A montagem do exper
 
 ![](20190925_193238.jpg)
 
-- **Execução**
+### Execução
 
 ![](20190925_194942.jpg)
 
-- **Dados Medidos**
+### Dados Medidos
 
