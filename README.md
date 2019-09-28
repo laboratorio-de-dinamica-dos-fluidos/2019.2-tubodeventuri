@@ -64,7 +64,7 @@ Estima-se que após o levantamento teórico do tema, levaremos 2 semanas para a 
 
 O tempo estimado para a realização do experimento será de duas semanas, nas quais serão feitas a montagem do tubo de Venturi, e o agendamento para a utilização do Laboratório de Termofluidos para a execução do experimento, tendo o tempo estimado de 2 horas para a conclusão deste.
 
-- Responsabilidades dos membros:
+### Responsabilidades dos membros:
 
 1 - Aquisição dos itens: Rafael;
 
@@ -72,11 +72,11 @@ O tempo estimado para a realização do experimento será de duas semanas, nas q
 
 3 - Execução do experimento: 
 
-*Procedimento: Samara, Rafael; 
+* Procedimento: Samara, Rafael; 
 
-*Coleta de dados: Mayra.
+* Coleta de dados: Mayra.
 
-- Cronograma
+### Cronograma
 
 09/09 - 13/09: Levantamento de dados;
 
@@ -113,19 +113,19 @@ A divisão de tarefas permanece a mesma descrita na etapa 2. A montagem do exper
 
 3 - Execução do experimento: 
 
-*Procedimento: Samara, Rafael; 
+* Procedimento: Samara, Rafael; 
 
-*Coleta de dados: Mayra.
+* Coleta de dados: Mayra.
 
 # Descrição dos Procedimentos Realizados
 
 ### Montagem
 
-1. Materiais Utilizados
+1. **Materiais Utilizados**
 
 ![](20190925_093811.jpg)
 
-2. Confecção do Tubo
+2. **Confecção do Tubo**
 
 ![](20190925_094105.jpg)
 
@@ -143,5 +143,6 @@ A divisão de tarefas permanece a mesma descrita na etapa 2. A montagem do exper
 
 ![](20190925_194942.jpg)
 
+![](20190925_194727.mp4)
 ### Dados Medidos
 
