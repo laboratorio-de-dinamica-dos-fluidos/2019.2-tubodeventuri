@@ -163,8 +163,8 @@ A divisão de tarefas permanece a mesma descrita na etapa 2. A montagem do exper
 |   A1    |   91,6   |   
 |   A2    |    4,9   |   
 
-| Volume do fluido  | Variação do fluido  |   
-|-------------------|---------------------|
-|      0,3 ml       |        0,5 cm       |   
+| Volume do fluido  | Variação da altura do fluido|   
+|-------------------|-----------------------------|
+|      0,3 ml       |           0,5 cm            |   
 
 
