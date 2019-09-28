@@ -77,11 +77,11 @@ O tempo estimado para a realização do experimento será de duas semanas, nas q
 
 ### Cronograma
 
-09/09 - 13/09: Levantamento de dados;
-
-16/09 - 27/09: Montagem e execução do experimento;
-
-30/09 - 30/10: Cálculos e elaboração do relatório final.
+|    Datas    |               Atividades               |   
+|-------------|----------------------------------------|
+|09/09 - 13/09|Levantamento de dados                   |  
+|16/09 - 27/09|Montagem e execução do experimento      |   
+|30/09 - 30/10|Cálculos e elaboração do relatório final|  
 
 # Dados a Serem Medidos e/ou Calculados
 
