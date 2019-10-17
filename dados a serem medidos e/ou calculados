@@ -8,9 +8,8 @@ princípio de Bernoulli e no princípio da continuidade da massa. Se o fluxo de 
 aumenta. Para o teorema a conservação da energia se a energia cinética aumenta, a
 energia determinada pelo valor da pressão diminui.
 
-Vazão (R) é o volume de determinado fluido que passa por uma determinada secção de
-um conduto livre ou forçado, por uma unidade de tempo. Sendo assim, a rapidez com
-que um volume escoa.
-Pode ser dada pelas equações:
+Vazão(R): É o volume de determinado fluido que passa por uma determinada secção de
+um conduto livre ou forçado, por uma unidade de tempo.
+Sendo assim, a rapidez com que um volume escoa.Pode ser dada pelas equações:
  R=∆V/∆t (variação de volume sobre variação do tempo)
  R=A.V (área da secção vezes volume)
