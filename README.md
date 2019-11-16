@@ -20,7 +20,7 @@ Este experimento tem o intuito de medir a velocidade de escoamento e a vazão de
 
 - Avaliação de possíveis soluções para cumprir os objetivos do sistema:
 
-Primeiramente o para conseguirmos todas as medições necessárias para que os objetivos se concretizem, adotaremos certa condicões simplificadoras:
+Primeiramente o para conseguirmos todas as medições necessárias para que os objetivos se concretizem, adotaremos certa condições simplificadoras:
 
 1. Escoamento permanente;
 2. Escoamento incompressível;
@@ -90,8 +90,8 @@ Vazão (R) é o volume de determinado fluido que passa por uma determinada secç
 um conduto livre ou forçado, por uma unidade de tempo. Sendo assim, a rapidez com
 que um volume escoa pode ser dada pelas equações:
 
-* R = ∆V/∆t (variação de volume sobre variação do tempo)
-* R = A.V (área da secção vezes volume)
+* Q = ∆V/∆t (variação de volume sobre variação do tempo)
+* Q = A.V (área da seção vezes volume)
 
 Os dados a serem medidos compreendem as dimensões do tubo, as áreas da seção do escoamento, e a variação de altura do fluido. A partir desses dados, será possível obter os valores referentes à velocidade, vazão do escoamento e variação de pressão.
 
@@ -150,28 +150,69 @@ A divisão de tarefas permanece a mesma descrita na etapa 2. A montagem do exper
 
 ### Dados Medidos
 
-| Dimensões              |  (cm)  |  
-|------------------------|--------|
-|Diâmetro maior (A1)     |  10,8  |  
-|Diâmetro menor (A2)     |   2,5  |              
-|Diâmetro da mangueira   |   0,5  |
-|Comprimento da mangueira|  27,0  |   
-|Altura                  |        |  
+| Dimensões              |   (m)   |  
+|------------------------|---------|
+|Diâmetro maior (A1)     |  0,108  |  
+|Diâmetro menor (A2)     |  0,025  |              
+|Diâmetro da mangueira   |  0,005  |
+|Comprimento da mangueira|  0,270  |   
  
-|  Áreas  |   (cm²)  |   
+|  Áreas  |   (m²)   |   
 |---------|----------|
-|   A1    |   91,6   |   
-|   A2    |    4,9   |   
+|   A1    |  0,0092  |   
+|   A2    |  0,0005  |   
 
-| Volume do fluido  | Variação da altura do fluido|   
-|-------------------|-----------------------------|
-|      0,3 ml       |           0,5 cm            |   
+| Volume do fluido  | Variação da altura do fluido (H) |   
+|-------------------|----------------------------------|
+|      0,3 ml       |             0,005 m              |   
 
 
 # 4. Análise e Conclusão
 
 # Resultados
 
+Os dados obtidos experimentalmente foram utilizados para a realização dos cálculos da variação de pressão do fluido, da vazão do escoamento e das velocidades ao longos das seções do tubo. Dois pontos ao longo de uma linha de corrente foram considerados, sendo o primeiro (ponto 1) localizado na seção de área A1 e o segundo (ponto 2) na seção de área A2. Com isso, os termos relacionados a energia potencial e variação de altura no escoamento puderam ser cancelados, uma vez que:
+
+h1 = h2
+
+A partir da Equação da Continuidade foi possível obter-se uma relação para as duas velocidades nos pontos 1 e 2:
+
+A1 . v1 = A2 . v2
+
+(A1/A2) v1 = v2
+
+(A1/A2) = (0,0092/0,0005) = 18,4
+
+18,4 v1 = v2
+
+Com as condições simplificadoras, a Equação de Bernoulli pôde ser aplicada, tomando a seguinte forma:
+
+P1 + ro v1 2 / 2
+
+Substituindo a relação encontrada a partir da equação da Continuidade na equação de Bernoulli, obtém-se a expressão para a velocidade:
+
+
+v1 = 
+
+A diferença de pressão ∆P pode ser obtida através do Teorema de Stevin, uma vez que a variação da altura da coluna de fluido H foi obtida:
+
+∆P =  ρ . g . H
+
+H = 0,005 m
+g = 9,8 m/s
+ρ = 1,1839 kg/m³ a temperatura ambiente
+
+∆P = 0,058 
+
+Substituindo esse resultado na expressão para a velocidade, obtém-se os valores:
+
+v1 = 0.0170 m/s
+v2 = 0.3135 m/s
+
+A partir das velocidades, a vazão nas seções A1 e A2 é obtida:
+
+Q =  v1 . A1
+Q = 0.0001564 m³/s
 
 
 # Conclusão
