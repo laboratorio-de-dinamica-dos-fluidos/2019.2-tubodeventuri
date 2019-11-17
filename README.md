@@ -91,9 +91,11 @@ um conduto livre ou forçado, por uma unidade de tempo. Sendo assim, a rapidez c
 que um volume escoa pode ser dada pelas equações:
 
 ![](20191116_213130.jpg)
+
 (Variação de volume sobre variação do tempo)
 
 ![](20191116_213330.jpg)
+
 (Área da seção vezes volume)
 
 Os dados a serem medidos compreendem as dimensões do tubo, as áreas da seção do escoamento, e a variação de altura do fluido. A partir desses dados, será possível obter os valores referentes à velocidade, vazão do escoamento e variação de pressão.
@@ -176,7 +178,7 @@ A divisão de tarefas permanece a mesma descrita na etapa 2. A montagem do exper
 
 Os dados obtidos experimentalmente foram utilizados para a realização dos cálculos da variação de pressão do fluido, da vazão do escoamento e das velocidades ao longos das seções do tubo. Dois pontos ao longo de uma linha de corrente foram considerados, sendo o primeiro (ponto 1) localizado na seção de área A1 e o segundo (ponto 2) na seção de área A2. Com isso, os termos relacionados a energia potencial e variação de altura no escoamento puderam ser cancelados, uma vez que:
 
-                                                      h1 = h2
+                                      **h1 = h2**
 
 A partir da Equação da Continuidade foi possível obter-se uma relação para as duas velocidades nos pontos 1 e 2:
 
