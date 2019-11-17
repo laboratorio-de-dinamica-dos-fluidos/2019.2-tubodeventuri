@@ -178,7 +178,7 @@ A divisão de tarefas permanece a mesma descrita na etapa 2. A montagem do exper
 
 Os dados obtidos experimentalmente foram utilizados para a realização dos cálculos da variação de pressão do fluido, da vazão do escoamento e das velocidades ao longos das seções do tubo. Dois pontos ao longo de uma linha de corrente foram considerados, sendo o primeiro (ponto 1) localizado na seção de área A1 e o segundo (ponto 2) na seção de área A2. Com isso, os termos relacionados a energia potencial e variação de altura no escoamento puderam ser cancelados, uma vez que:
 
-                                      **h1 = h2**
+                                        h1 = h2
 
 A partir da Equação da Continuidade foi possível obter-se uma relação para as duas velocidades nos pontos 1 e 2:
 
@@ -218,7 +218,7 @@ Substituindo esse resultado na expressão para a velocidade, obtém-se os valore
 
 A partir das velocidades, a vazão nas seções A1 e A2 é obtida:
 
-Q =  V1 . A1
+Q =  V1 . A1 = V2 . A2 
 
 **Q = 0,0002 m³/s**
 
