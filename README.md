@@ -173,11 +173,11 @@ A divisão de tarefas permanece a mesma descrita na etapa 2. A montagem do exper
 
 Os dados obtidos experimentalmente foram utilizados para a realização dos cálculos da variação de pressão do fluido, da vazão do escoamento e das velocidades ao longos das seções do tubo. Dois pontos ao longo de uma linha de corrente foram considerados, sendo o primeiro (ponto 1) localizado na seção de área A1 e o segundo (ponto 2) na seção de área A2. Com isso, os termos relacionados a energia potencial e variação de altura no escoamento puderam ser cancelados, uma vez que:
 
-h1 = h2
+                    h1 = h2
 
 A partir da Equação da Continuidade foi possível obter-se uma relação para as duas velocidades nos pontos 1 e 2:
 
-A1 . v1 = A2 . v2
+![](20191116_214637.jpg)
 
 (A1/A2) v1 = v2
 
@@ -187,32 +187,35 @@ A1 . v1 = A2 . v2
 
 Com as condições simplificadoras, a Equação de Bernoulli pôde ser aplicada, tomando a seguinte forma:
 
-P1 + ro v1 2 / 2
+![](20191116_213938.jpg)
 
 Substituindo a relação encontrada a partir da equação da Continuidade na equação de Bernoulli, obtém-se a expressão para a velocidade:
 
-
-v1 = 
+![](20191116_213434.jpg)
 
 A diferença de pressão ∆P pode ser obtida através do Teorema de Stevin, uma vez que a variação da altura da coluna de fluido H foi obtida:
 
-∆P =  ρ . g . H
+![](20191116_213506.jpg)
 
 H = 0,005 m
+
 g = 9,8 m/s
+
 ρ = 1,1839 kg/m³ a temperatura ambiente
 
-∆P = 0,058 
+**∆P = 0,058 Pa**
 
 Substituindo esse resultado na expressão para a velocidade, obtém-se os valores:
 
-v1 = 0.0170 m/s
-v2 = 0.3135 m/s
+**V1 = 0.0170 m/s**
+
+**V2 = 0.3135 m/s**
 
 A partir das velocidades, a vazão nas seções A1 e A2 é obtida:
 
 Q =  v1 . A1
-Q = 0.0001564 m³/s
+
+**Q = 0.0002 m³/s**
 
 
 # Conclusão
