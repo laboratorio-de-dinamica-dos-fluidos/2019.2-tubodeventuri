@@ -43,7 +43,7 @@ Exemplificação do experimento que será reproduzido para alcançar os objetivo
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSCr4d9JutDYcGWSCqyN3KcO0PGCvsFA-K1tTpWOEKTBsRYfOHJ">
 
-Para a parte experimental do tubo de Venturi, será necessário um túnel de vento acoplado a um manômetro de altura de forma parecida a imagem. Para isto pode ser averiguado se o túnel de vento do laboratório de termofluidos se encaixa nos requisitos, mas o mesmo pode ser confeccionado por meio de vídeos de instruções já pesquisados pelo grupo.
+Para a parte experimental do tubo de Venturi, será necessário um túnel de vento acoplado a um manômetro de altura de forma parecida a imagem. Para isto pode ser averiguado se o túnel de vento do Laboratório de Termofluidos se encaixa nos requisitos, mas o mesmo pode ser confeccionado por meio de vídeos de instruções já pesquisados pelo grupo.
 
 # Escopo do Experimento
 
@@ -86,7 +86,7 @@ O tubo de Venturi ou medidor de Venturi é um aparato criado para medir a veloci
 e a vazão de um líquido incompressível através da variação da pressão durante a passagem deste líquido por um tubo de seção
 mais larga e depois por outro de seção mais estreita. Este efeito é explicado pelo princípio de Bernoulli e do Princípio da Continuidade da Massa. Se o fluxo de um fluido é constante, mas sua área de escoamento diminui então necessariamente sua velocidade aumenta. Para o teorema a conservação da energia se a energia cinética aumenta, a energia determinada pelo valor da pressão diminui.
 
-Vazão (R) é o volume de determinado fluido que passa por uma determinada secção de
+Vazão (Q) é o volume de determinado fluido que passa por uma determinada seção de
 um conduto livre ou forçado, por uma unidade de tempo. Sendo assim, a rapidez com
 que um volume escoa pode ser dada pelas equações:
 
