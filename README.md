@@ -78,7 +78,7 @@ O tempo estimado para a realização do experimento será de duas semanas, nas q
 |-------------|----------------------------------------|
 |09/09 - 13/09|Levantamento de dados                   |  
 |16/09 - 27/09|Montagem e execução do experimento      |   
-|30/09 - 30/10|Cálculos e elaboração do relatório final|  
+|30/09 - 23/11|Cálculos e elaboração do relatório final|  
 
 # Dados a Serem Medidos e/ou Calculados
 
@@ -178,7 +178,7 @@ A divisão de tarefas permanece a mesma descrita na etapa 2. A montagem do exper
 
 Os dados obtidos experimentalmente foram utilizados para a realização dos cálculos da variação de pressão do fluido, da vazão do escoamento e das velocidades ao longos das seções do tubo. Dois pontos ao longo de uma linha de corrente foram considerados, sendo o primeiro (ponto 1) localizado na seção de área A1 e o segundo (ponto 2) na seção de área A2. Com isso, os termos relacionados a energia potencial e variação de altura no escoamento puderam ser cancelados, uma vez que:
 
-                                        h1 = h2
+                                               h1 = h2
 
 A partir da Equação da Continuidade foi possível obter-se uma relação para as duas velocidades nos pontos 1 e 2:
 
@@ -190,7 +190,7 @@ A partir da Equação da Continuidade foi possível obter-se uma relação para 
 
 18,4 V1 = V2
 
-Com as condições simplificadoras, a Equação de Bernoulli pôde ser aplicada, tomando a seguinte forma:
+Com as condições simplificadoras, a equação de Bernoulli pôde ser aplicada, tomando a seguinte forma:
 
 ![](20191116_213938.jpg)
 
@@ -206,7 +206,7 @@ H = 0,005 m
 
 g = 9,8 m/s
 
-ρ = 1,1839 kg/m³ a temperatura ambiente
+ρ(ar) = 1,1839 kg/m³ (Temperatura ambiente)
 
 **∆P = 0,058 Pa**
 
