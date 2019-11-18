@@ -224,4 +224,18 @@ Q =  V1 . A1 = V2 . A2
 
 # Comparação dos Resultados com a Teoria Envolvida
 
+         Segundo (Schneider, 2003) o tubo de Venturi é o medidor com o melhor desempenho
+entre os seus similares, na categoria de medidores de obstrução, o que evidenciou-se durante 
+os testes por sua relativa simplicidade, além de ser o medidor 
+que provoca a menor perda de carga permanente na medida, portanto o menos intrusivo.
+A imagem localizada na parte de execução deste documento apresenta uma construção típica desse instrumento,
+onde assim como na teoria temos a entrada em cone convergente e a saída em cone divergente.
+         Diante disso chegamos ao resultado esperado onde pôde-se encontrar a velocidade
+de escoamento e por conseguinte a Vazão volumétricas de forma indireta, utilizando-se variáveis físicas 
+geradas pelo fluido, no caso a pressão e a velocidade. Acelerando-se o fluido para que baixe sua pressão temporariamente.
+Os resultados acima demonstrados no capítulo 4, coincidem com o esperado da teoria
+Assim como na teoria é considerado o fluido ideal onde a velocidade é constante,
+não apresenta viscosidade e considerou-se o escoamento estacionário, 
+(escoamento constante ao longo do tempo).
+
 # Conclusão
