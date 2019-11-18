@@ -115,7 +115,7 @@ A divisão de tarefas permanece a mesma descrita na etapa 2. A montagem do exper
 1. Aquisição dos itens: Rafael;
 2. Montagem do experimento: Todos;
 3. Execução do experimento: 
-* Procedimento: Samara, Rafael; 
+* Procedimento: Ludimila, Rafael; 
 * Coleta de dados: Mayra.
 
 # Descrição dos Procedimentos Realizados
