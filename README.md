@@ -224,7 +224,7 @@ Q =  V1 . A1 = V2 . A2
 
 # Comparação dos Resultados com a Teoria Envolvida
 
-         Segundo (Schneider, 2003) o tubo de Venturi é o medidor com o melhor desempenho
+Segundo (Schneider, 2003) o tubo de Venturi é o medidor com o melhor desempenho
 entre os seus similares, na categoria de medidores de obstrução, o que evidenciou-se durante 
 os testes por sua relativa simplicidade, além de ser o medidor 
 que provoca a menor perda de carga permanente na medida, portanto o menos intrusivo.
