@@ -69,7 +69,7 @@ O tempo estimado para a realização do experimento será de duas semanas, nas q
 1. Aquisição dos itens: Rafael;
 2. Montagem do experimento: Todos;
 3. Execução do experimento: 
-* Procedimento: Samara, Rafael; 
+* Procedimento: Ludimila, Rafael; 
 * Coleta de dados: Mayra.
 
 ### Cronograma
