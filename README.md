@@ -20,6 +20,14 @@ Este experimento tem o intuito de medir a **velocidade** e a **vazão** de um fl
 
 - Avaliação de possíveis soluções para cumprir os objetivos do sistema:
 
+Para a parte experimental do tubo de Venturi, uma possível solução será a construção de um prototipo de túnel de vento acoplado a um manômetro de altura de forma parecida a imagem. O protótipo foi tomado como solução devido ao fato da indisponibilidade do tunel de vento presente no laboratório de termofluidos da FGA.
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSCr4d9JutDYcGWSCqyN3KcO0PGCvsFA-K1tTpWOEKTBsRYfOHJ">
+
+Com os experimento será determinado a velocidade de saída e a vazão analizando o valor final do manometro de altura.
+
+# Considerações para a Solução
+
 Primeiramente o para conseguirmos todas as medições necessárias para que os objetivos se concretizem, adotaremos certa condições simplificadoras:
 
 1. Escoamento permanente;
@@ -38,12 +46,6 @@ Informações adicionais serão:
 
 1. Área da seção transversal do tanque;
 2. Durante o experimento, a variação de altura do fluido no tubo terá de ser determinada.
-
-Exemplificação do experimento que será reproduzido para alcançar os objetivos de medir a vazão e a velocidade de escoamento:
-
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSCr4d9JutDYcGWSCqyN3KcO0PGCvsFA-K1tTpWOEKTBsRYfOHJ">
-
-Para a parte experimental do tubo de Venturi, será necessário um túnel de vento acoplado a um manômetro de altura de forma parecida a imagem. Para isto pode ser averiguado se o túnel de vento do Laboratório de Termofluidos se encaixa nos requisitos, mas o mesmo pode ser confeccionado por meio de vídeos de instruções já pesquisados pelo grupo.
 
 # Escopo do Experimento
 
