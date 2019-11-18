@@ -133,7 +133,7 @@ A divisão de tarefas permanece a mesma descrita na etapa 2. A montagem do exper
 - seringa
 - 2 caixas de papelão 
 - 3 ml de refrigerante
-- 1 secador de cabelo
+- 1 secador de cabelo **Gamma Eleganza 2200**
 
 **2. Confecção do Tubo**
 
