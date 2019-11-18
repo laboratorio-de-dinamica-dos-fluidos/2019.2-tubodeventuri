@@ -258,3 +258,9 @@ title = {Tubo de Venturi caseiro e equação de Bernoulli.};
 url = {https://www.youtube.com/watch?v=R1kjfHtl9xc&t=71s};
 urlacessdate = {31 set 2019};
 }
+@misc{
+title = {“Apostilas e Material de Aula”, Escola de Engenharia –
+UFRGS} ;
+url = {http://www.mecanica.ufrgs.br/disciplinas};
+urlacessdate = {2007-2}};
+}
