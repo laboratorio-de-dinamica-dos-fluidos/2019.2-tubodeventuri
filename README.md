@@ -243,10 +243,13 @@ não apresenta viscosidade e considerou-se o escoamento estacionário,
 (escoamento constante ao longo do tempo).
 
 # Conclusão
+O Tubo de Venturi é um medidor de vazão com qual podemos verificar mudanças de velocidade e pressão dentro do Tubo.
+O aumento de energia cinética no fluído é compensado pela perda de pressão, isto sendo explicado pela conservação de energia.
 Através do sucesso do experimento realizado, obteve-se a altura(H) para que fosse possível  o cálculo da vazão e velocidade, presentes no ensaio.
 
 Com o método analítico chega-se ao resultado de vazão volumétrica igual a 
 Q = 0,0002 m³/s, pressão  ∆P = 0,058 Pa e velocidades V1 = 0,0170 m/s e V2 = 0,3135 m/s 
+A utilização do tubo de venturi é amplamente empregada na indústria e na medicina como exemplo : Sistema Circulatório, extintores, carburadores dentro outras aplicações 
 
 # Bibliografia
 
