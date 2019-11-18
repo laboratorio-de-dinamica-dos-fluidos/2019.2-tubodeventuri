@@ -247,3 +247,11 @@ Através do sucesso do experimento realizado, obteve-se a altura(H) para que fos
 
 Com o método analítico chega-se ao resultado de vazão volumétrica igual a 
 Q = 0,0002 m³/s, pressão  ∆P = 0,058 Pa e velocidades V1 = 0,0170 m/s e V2 = 0,3135 m/s 
+
+# Bibliografia
+
+@misc{
+title = {Tubo de Venturi caseiro e equação de Bernoulli.};
+url = {https://www.youtube.com/watch?v=R1kjfHtl9xc&t=71s};
+urlacessdate = {31 set 2019};
+}
