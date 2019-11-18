@@ -222,6 +222,6 @@ Q =  V1 . A1 = V2 . A2
 
 **Q = 0,0002 m³/s**
 
-#Comparação dos Resultados com a Teoria Envolvida
+# Comparação dos Resultados com a Teoria Envolvida
 
 # Conclusão
