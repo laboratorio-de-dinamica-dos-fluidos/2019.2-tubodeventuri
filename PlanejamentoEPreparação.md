@@ -8,7 +8,7 @@ Responsabilidades dos membros:
 * Aquisição dos itens: Rafael;
 * Montagem do experimento: Todos;
 * Execução do experimento:
-  *Procedimento: Samara, Rafael;
+  *Procedimento: Ludimila, Rafael;
   *Coleta de dados: Mayra;
 
 
