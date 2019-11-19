@@ -197,7 +197,7 @@ A partir da Equação da Continuidade foi possível obter-se uma relação para 
 
 (A1/A2) = (0,0092/0,0005) = 18,4
 
-18,4 V1 = V2
+**18,4 V1 = V2**
 
 Com as condições simplificadoras, a equação de Bernoulli pôde ser aplicada, tomando a seguinte forma:
 
