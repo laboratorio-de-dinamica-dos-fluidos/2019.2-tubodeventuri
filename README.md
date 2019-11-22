@@ -31,11 +31,11 @@ Para a parte experimental do tubo de Venturi, uma possível solução será a co
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSCr4d9JutDYcGWSCqyN3KcO0PGCvsFA-K1tTpWOEKTBsRYfOHJ">
 
-Com os experimento será determinado a velocidade de saída e a vazão analizando o valor final do manometro de altura.
+Com o experimento será determinado a velocidade de saída e a vazão analizando o valor final do manômetro de altura.
 
 # Considerações para a Solução
 
-Primeiramente o para conseguirmos todas as medições necessárias para que os objetivos se concretizem, adotaremos certa condições simplificadoras:
+Primeiramente para conseguirmos todas as medições necessárias para que os objetivos se concretizem, adotaremos certa condições simplificadoras:
 
 1. Escoamento permanente;
 2. Escoamento incompressível;
@@ -52,7 +52,7 @@ As equações básicas que serão usadas para alcançar as soluções serão:
 Informações adicionais serão:
 
 1. Área da seção transversal do tanque;
-2. Durante o experimento, a variação de altura do fluido no tubo terá de ser determinada.
+2. Durante o experimento, a variação de altura do fluido no tubo será determinada.
 
 # Escopo do Experimento
 
@@ -185,11 +185,11 @@ A divisão de tarefas permanece a mesma descrita na etapa 2. A montagem do exper
 
 # Resultados
 
-Os dados obtidos experimentalmente foram utilizados para a realização dos cálculos da variação de pressão do fluido, da vazão do escoamento e das velocidades ao longos das seções do tubo. Dois pontos ao longo de uma linha de corrente foram considerados, sendo o primeiro (ponto 1) localizado na seção de área A1 e o segundo (ponto 2) na seção de área A2. Com isso, os termos relacionados a energia potencial e variação de altura no escoamento puderam ser cancelados, uma vez que:
+Os dados obtidos experimentalmente foram utilizados para a realização dos cálculos da variação de pressão do fluido, da vazão do escoamento e das velocidades ao longo das seções do tubo. Dois pontos ao longo de uma linha de corrente foram considerados, sendo o primeiro (ponto 1) localizado na seção de área A1 e o segundo (ponto 2) na seção de área A2. Com isso, os termos relacionados a energia potencial e variação de altura no escoamento puderam ser cancelados, uma vez que:
 
                                                  h1 = h2
 
-A partir da Equação da Continuidade foi possível obter-se uma relação para as duas velocidades nos pontos 1 e 2:
+A partir da Equação da Continuidade foi possível obter uma relação para as duas velocidades nos pontos 1 e 2:
 
 ![](20191116_214637.jpg)
 
