@@ -238,7 +238,7 @@ g = 9,8 m/s
 
 ρ(ar) = 1,1839 kg/m³ (Temperatura ambiente)
 
-**∆P = 0,058 Pa**
+**∆P = 0,0580 Pa**
 
 Substituindo esse resultado na expressão para a velocidade, obtém-se os valores:
 
@@ -276,17 +276,17 @@ O aumento de energia cinética no fluído é compensado pela perda de pressão, 
 Através do sucesso do experimento realizado, obteve-se a altura(H) para que fosse possível  o cálculo da vazão e velocidade, presentes no ensaio.
 
 Com o método analítico chega-se ao resultado de vazão volumétrica igual a 
-**Q = 0,0002 m³/s**, variação de pressão igual a **∆P = 0,058 Pa** e velocidades **V1 = 0,0170 m/s** e **V2 = 0,3135 m/s**.
+**Q = 0,0002 m³/s**, variação de pressão igual a **∆P = 0,0580 Pa** e velocidades **V1 = 0,0170 m/s** e **V2 = 0,3135 m/s**.
 A utilização do tubo de Venturi é amplamente empregada na indústria e na medicina, como por exemplo: Sistema Circulatório, extintores, carburadores, dentre outras aplicações.
 
 # Bibliografia
 
-@misc {title = {Tubo de Venturi caseiro e equação de Bernoulli.};
-{url = {https://www.youtube.com/watch?v=R1kjfHtl9xc&t=71s};
-urlacessdate = {31 set 2019};}
+[1]FOX, Robert W., MCDONALD, Alan T., PRITCHARD, Philip J.. **Introdução à Mecânica dos Fluidos**. 6 ed. LTC, 2004.
 
+[2]Tubo de Venturi caseiro e equação de Bernoulli.
+<https://www.youtube.com/watch?v=R1kjfHtl9xc&t=71s>
+Acesso em: 31 set 2019.
 
-@misc {title = {“Apostilas e Material de Aula”, Escola de Engenharia –
-UFRGS;}
-{url = {http://www.mecanica.ufrgs.br/disciplinas};
-urlacessdate = {2007-2}};
+[3]“Apostilas e Material de Aula”, Escola de Engenharia –UFRGS.
+<http://www.mecanica.ufrgs.br/disciplinas>
+
