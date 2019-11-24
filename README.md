@@ -59,11 +59,11 @@ Informações adicionais serão:
 
 - Estabelecimento de tarefas necessárias para a execução do experimento:
 
-A primeira etapa consiste em aprofundar a base teórica sobre o funcionamento do tubo de Venturi, e sobre os fenômenos físicos a serem estudados, a partir dos princípios de Bernoulli, e da Continuidade de Massa. A etapa seguinte consiste no planejamento da construção do tubo de Venturi, e na definição dos materiais a serem utilizados. Posteriormente, segue a etapa da construção do tubo de Venturi. As últimas etapas consistem no levantamento de dados e variáveis para os cálculos a serem realizados, e por fim a realização do experimento no Laboratório de Termofluidos.
+A primeira etapa consiste em aprofundar a base teórica sobre o funcionamento do tubo de Venturi, e sobre os fenômenos físicos a serem estudados, a partir dos princípios de Bernoulli, e da Continuidade de Massa. A etapa seguinte consiste no planejamento, na definição dos materiais a serem utilizados, e na construção do tubo em si. As últimas etapas consistem no levantamento de dados e variáveis para os cálculos a serem realizados, e por fim a realização do experimento no Laboratório de Termofluidos.
 
 # Avaliação de Viabilidade
 
-O experimento escolhido pelo grupo é viável pois nas dependências da faculdade, há um túnel de vento com manômetros de altura, disponíveis para uso no laboratório de termofluidos. Entretanto também podemos construir um tubo de venturi de forma mais rústica, utilizando garrafa pet, secador de cabelo, fluido previamente determinado de preferência não viscoso, e argamassa.
+O experimento escolhido pelo grupo é viável pois nas dependências da faculdade há um túnel de vento com manômetros de altura, disponíveis para uso no Laboratório de Termofluidos. Entretanto, também podemos construir um tubo de Venturi de forma simplificada, utilizando garrafa pet, secador de cabelo, fluido previamente determinado de preferência não viscoso, e argamassa.
 Estima-se que após o levantamento teórico do tema, levaremos 2 semanas para a confecção do tubo de Venturi, e execução do experimento.
 
 # 2. Planejamento e Preparação
@@ -92,12 +92,12 @@ O tempo estimado para a realização do experimento será de duas semanas, nas q
 
 # Dados a Serem Medidos e/ou Calculados
 
-O tubo de Venturi ou medidor de Venturi é um aparato criado para medir a velocidade do escoamento
-e a vazão de um líquido incompressível através da variação da pressão durante a passagem deste líquido por um tubo de seção
-mais larga e depois por outro de seção mais estreita. Este efeito é explicado pelo Princípio de Bernoulli e o Princípio da Continuidade de Massa. Se o fluxo de um fluido é constante, mas sua área de escoamento diminui, então necessariamente sua velocidade aumenta. Para o teorema da conservação da energia, se a energia cinética aumenta, a energia determinada pelo valor da pressão diminui.
+O tubo de Venturi ou medidor de Venturi é um aparato criado para medir a velocidade e a vazão do escoamento
+de um fluido incompressível, através da variação da pressão durante a passagem deste fluido por um tubo de seção
+mais larga e depois por outro de seção mais estreita. Este efeito é explicado pelo Princípio de Bernoulli e Princípio da Continuidade de Massa. Se o fluxo de um fluido é constante, mas sua área de escoamento diminui, então necessariamente sua velocidade aumenta. Para o teorema da conservação da energia, se a energia cinética aumenta, a energia determinada pelo valor da pressão diminui.
 
 Vazão (Q) é o volume de determinado fluido que passa por uma determinada seção de
-um conduto livre ou forçado, por uma unidade de tempo. Sendo assim, a rapidez com
+um conduto livre ou forçado, por unidade de tempo. Sendo assim, a rapidez com
 que um volume escoa pode ser dada pelas equações:
 
 ![](20191116_213130.jpg)
