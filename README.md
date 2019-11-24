@@ -110,7 +110,7 @@ que um volume escoa pode ser dada pelas equações:
 
 As propriedades do escoamento que descrevem o seu comportamento podem ser determinadas a partir da Equação de Bernoulli. Para aplicar essa equação, o escoamento deve ser considerado incompreensível, em regime permanente, ao longo de uma linha de corrente e invíscido.
 
-![]()
+![](20191123_220953.jpg)
 
 Os termos da Equação são:
 
@@ -122,7 +122,7 @@ P = pressão do fluido
 
 A variação de pressão pode ser calculada pelo Teorema de Stevin:
 
-![]()
+![](20191123_223247.jpg)
    
 Os dados a serem medidos compreendem as dimensões do tubo, as áreas da seção do escoamento, e a variação de altura do fluido. A partir desses dados, será possível obter os valores referentes à velocidade, vazão do escoamento e variação de pressão.
 
