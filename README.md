@@ -265,7 +265,7 @@ Diante disso chegamos ao resultado esperado na qual pôde-se encontrar a velocid
 do escoamento, e por conseguinte, a vazão volumétrica de forma indireta, utilizando-se variáveis físicas 
 geradas que caracterizam o fluido, no caso a pressão e a velocidade, e acelerando o fluido para que sua pressão caia temporariamente.
 
-Os resultados acima demonstrados no capítulo 4, coincidem com o resultado teórico esperado.
+Os resultados acima demonstrados, coincidem com o resultado teórico esperado.
 Assim como na teoria, foi considerado um fluido ideal na qual a velocidade é constante,
 não apresenta viscosidade, e o escoamento é estacionário
 (escoamento constante ao longo do tempo).
@@ -273,7 +273,7 @@ não apresenta viscosidade, e o escoamento é estacionário
 # Conclusão
 O Tubo de Venturi é um medidor de vazão com qual podemos verificar mudanças de velocidade e pressão dentro do tubo.
 O aumento de energia cinética no fluído é compensado pela perda de pressão, isto sendo explicado pela conservação de energia.
-Através do sucesso do experimento realizado, obteve-se a altura(H) para que fosse possível  o cálculo da vazão e velocidade, presentes no ensaio.
+Através do sucesso do experimento realizado, obteve-se a variação da altura (H) na coluna de refrigerante, para que fosse possível  o cálculo da vazão e velocidade, presentes no ensaio.
 
 Com o método analítico chega-se ao resultado de vazão volumétrica igual a 
 **Q = 0,0002 m³/s**, variação de pressão igual a **∆P = 0,0580 Pa** e velocidades **V1 = 0,0170 m/s** e **V2 = 0,3135 m/s**.
