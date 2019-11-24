@@ -59,7 +59,7 @@ Informações adicionais serão:
 
 - Estabelecimento de tarefas necessárias para a execução do experimento:
 
-A primeira etapa consiste em aprofundar a base teórica sobre o funcionamento do tubo de Venturi, e sobre os fenômenos físicos a serem estudados, a partir dos princípios de Bernoulli, e da Continuidade de Massa. A etapa seguinte consiste no planejamento, na definição dos materiais a serem utilizados, e na construção do tubo em si. As últimas etapas consistem no levantamento de dados e variáveis para os cálculos a serem realizados, e por fim a realização do experimento no Laboratório de Termofluidos.
+A primeira etapa consiste em aprofundar a base teórica sobre o funcionamento do tubo de Venturi, e sobre os fenômenos físicos a serem estudados, a partir dos princípios de Bernoulli e da Continuidade de Massa. A etapa seguinte consiste no planejamento, na definição dos materiais a serem utilizados, e na construção do tubo em si. As últimas etapas consistem no levantamento de dados e variáveis para os cálculos a serem realizados, e por fim a realização do experimento no Laboratório de Termofluidos.
 
 # Avaliação de Viabilidade
 
@@ -285,7 +285,7 @@ A utilização do tubo de Venturi é amplamente empregada na indústria e na med
 
 [2] Tubo de Venturi caseiro e equação de Bernoulli.
 <https://www.youtube.com/watch?v=R1kjfHtl9xc&t=71s>
-Acesso em: 31 set 2019.
+Acesso em: 09 set 2019.
 
 [3] “Apostilas e Material de Aula”, Escola de Engenharia – UFRGS.
 <http://www.mecanica.ufrgs.br/disciplinas>
