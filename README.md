@@ -14,20 +14,20 @@
 
 # Introdução
 
-O efeito Venturi, conhecido como tubo de Venturi ocorre, quando num sistema fechado, o fluido em movimento constante dentro de um duto uniforme comprime-se momentaneamente ao encontrar uma zona de estreitamento diminuindo sua pressão e consequentemente aumentando sua velocidade ao atravessar a zona estreitada onde ocorre "também" uma baixa pressão, e se neste ponto se introduzir um terceiro duto ou uma sonda, encontrará uma sucção do fluido contido nessa ligação. Este efeito, demonstrado em 1797, recebe seu nome do físico italiano Giovanni Battista Venturi.
+O efeito Venturi, conhecido como tubo de Venturi ocorre, quando num sistema fechado, o fluido em movimento constante dentro de um duto uniforme, comprime-se momentaneamente ao encontrar uma zona de estreitamento, na qual ocorre a queda da pressão e consequentemente o aumento da sua velocidade. Se neste ponto, um terceiro duto ou uma sonda for introduzido, ocorrerá uma sucção do fluido contido nessa ligação. Este efeito, demonstrado em 1797, recebe o nome do físico italiano Giovanni Battista Venturi.
 
-O efeito Venturi é explicado pelo Princípio de Bernoulli e o princípio de continuidade de massa. Se o fluxo de um fluido é constante, mas sua área de escoamento diminui então necessariamente sua velocidade aumenta. Para o teorema a conservação da energia se a energia cinética aumenta, a energia determinada pelo valor da pressão diminui obrigatoriamente.
+O efeito Venturi é explicado pelo Princípio de Bernoulli e o Princípio da Continuidade de Massa. Se o fluxo de um fluido é constante, mas sua área de escoamento diminui, então necessariamente sua velocidade aumenta. Pelo teorema da conservação da energia, se a energia cinética aumenta, a energia determinada pelo valor da pressão diminui obrigatoriamente.
 A vazão pode ser determinada a partir do escoamento de um fluido através de determinada seção transversal de um conduto livre (canal, rio ou tubulação aberta) ou de um conduto forçado (tubulação com pressão positiva ou negativa). Isto significa que a vazão representa a rapidez com a qual um volume escoa.
 
 # Objetivo
 
-Este experimento tem o intuito de medir a **velocidade** e a **vazão** de um fluxo de um fluido incompressível através da variação da pressão durante a passagem deste fluido por um tubo de seção mais larga e depois por outro de seção mais estreita, sendo estes efeitos explicados pelo Princípio de Bernoulli e pelo o Princípio de Continuidade da Massa.
+Este experimento tem o intuito de medir a **velocidade** e a **vazão** de um fluxo de um fluido incompressível através da variação da pressão durante a passagem deste fluido por um tubo de seção mais larga e depois por outro de seção mais estreita, sendo estes efeitos explicados pelo Princípio de Bernoulli e pelo o Princípio da Continuidade de Massa.
 
 # Requisitos de Solução
 
-- Avaliação de possíveis soluções para cumprir os objetivos do sistema:
+- Avaliação de possíveis soluções para cumprir os objetivos do sistema:i
 
-Para a parte experimental do tubo de Venturi, uma possível solução será a construção de um prototipo de túnel de vento acoplado a um manômetro de altura de forma parecida a imagem. O protótipo foi tomado como solução devido ao fato da indisponibilidade do tunel de vento presente no laboratório de termofluidos da FGA.
+Para a parte experimental do tubo de Venturi, uma possível solução será a construção de um protótipo de túnel de vento acoplado a um manômetro de altura de forma parecida a imagem. O protótipo foi tomado como solução devido ao fato da indisponibilidade do túnel de vento presente no Laboratório de Termofluidos da FGA.
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSCr4d9JutDYcGWSCqyN3KcO0PGCvsFA-K1tTpWOEKTBsRYfOHJ">
 
@@ -47,7 +47,8 @@ As equações básicas que serão usadas para alcançar as soluções serão:
 
 1. Equação de Continuidade;
 2. Equação de Bernoulli;
-3. Equação de Vazão.
+3. Equação de Vazão;
+4. Teorema de Stevin.
 
 Informações adicionais serão:
 
@@ -58,11 +59,11 @@ Informações adicionais serão:
 
 - Estabelecimento de tarefas necessárias para a execução do experimento:
 
-A primeira etapa consiste em aprofundar a base teórica sobre o funcionamento do tubo de Venturi, e sobre os fenômenos físicos a serem estudados, a partir dos princípios de Bernoulli, e da continuidade de massa. A etapa seguinte consiste no planejamento da construção do tubo de Venturi, e na definição dos materiais a serem utilizados. Posteriormente, segue a etapa da construção do tubo de Venturi. As últimas etapas consistem no levantamento de dados e variáveis para os cálculos a serem realizados, e por fim a realização do experimento no Laboratório de Termofluidos.
+A primeira etapa consiste em aprofundar a base teórica sobre o funcionamento do tubo de Venturi, e sobre os fenômenos físicos a serem estudados, a partir dos princípios de Bernoulli, e da Continuidade de Massa. A etapa seguinte consiste no planejamento da construção do tubo de Venturi, e na definição dos materiais a serem utilizados. Posteriormente, segue a etapa da construção do tubo de Venturi. As últimas etapas consistem no levantamento de dados e variáveis para os cálculos a serem realizados, e por fim a realização do experimento no Laboratório de Termofluidos.
 
 # Avaliação de Viabilidade
 
-O experimento escolhido pelo grupo é viavel pois nas dependências da faculdade, há um túnel de vento com manômetros de altura, disponíveis para uso no laboratório de termofluidos. Entretanto também podemos construir um tubo de venturi de forma mais rústica, utilizando garrafa pet, secador de cabelo, fluido previamente determinado de preferência não viscoso, e argamassa.
+O experimento escolhido pelo grupo é viável pois nas dependências da faculdade, há um túnel de vento com manômetros de altura, disponíveis para uso no laboratório de termofluidos. Entretanto também podemos construir um tubo de venturi de forma mais rústica, utilizando garrafa pet, secador de cabelo, fluido previamente determinado de preferência não viscoso, e argamassa.
 Estima-se que após o levantamento teórico do tema, levaremos 2 semanas para a confecção do tubo de Venturi, e execução do experimento.
 
 # 2. Planejamento e Preparação
@@ -93,7 +94,7 @@ O tempo estimado para a realização do experimento será de duas semanas, nas q
 
 O tubo de Venturi ou medidor de Venturi é um aparato criado para medir a velocidade do escoamento
 e a vazão de um líquido incompressível através da variação da pressão durante a passagem deste líquido por um tubo de seção
-mais larga e depois por outro de seção mais estreita. Este efeito é explicado pelo princípio de Bernoulli e do Princípio da Continuidade da Massa. Se o fluxo de um fluido é constante, mas sua área de escoamento diminui então necessariamente sua velocidade aumenta. Para o teorema a conservação da energia se a energia cinética aumenta, a energia determinada pelo valor da pressão diminui.
+mais larga e depois por outro de seção mais estreita. Este efeito é explicado pelo Princípio de Bernoulli e o Princípio da Continuidade de Massa. Se o fluxo de um fluido é constante, mas sua área de escoamento diminui, então necessariamente sua velocidade aumenta. Para o teorema da conservação da energia, se a energia cinética aumenta, a energia determinada pelo valor da pressão diminui.
 
 Vazão (Q) é o volume de determinado fluido que passa por uma determinada seção de
 um conduto livre ou forçado, por uma unidade de tempo. Sendo assim, a rapidez com
@@ -185,7 +186,7 @@ A divisão de tarefas permanece a mesma descrita na etapa 2. A montagem do exper
 
 # Resultados
 
-Os dados obtidos experimentalmente foram utilizados para a realização dos cálculos da variação de pressão do fluido, da vazão do escoamento e das velocidades ao longo das seções do tubo. Dois pontos ao longo de uma linha de corrente foram considerados, sendo o primeiro (ponto 1) localizado na seção de área A1 e o segundo (ponto 2) na seção de área A2. Com isso, os termos relacionados a energia potencial e variação de altura no escoamento puderam ser cancelados, uma vez que:
+Os dados obtidos experimentalmente foram utilizados para a realização dos cálculos da variação de pressão do fluido, da vazão do escoamento e das velocidades ao longo das seções do tubo. Dois pontos ao longo de uma linha de corrente foram considerados, sendo o primeiro (ponto 1) localizado na seção de área A1 e o segundo (ponto 2) na seção de área A2. Com isso, os termos relacionados a energia potencial e variação de altura no escoamento puderam ser cancelados, uma vez os pontos 1 e 2 possuem a mesma altura:
 
                                                  h1 = h2
 
@@ -238,11 +239,11 @@ entre os seus similares, na categoria de medidores de obstrução, o que evidenc
 os testes por sua relativa simplicidade, além de ser o medidor 
 que provoca a menor perda de carga permanente na medida, portanto o menos intrusivo.
 A imagem localizada na parte de execução deste documento apresenta uma construção típica desse instrumento,
-onde assim como na teoria temos a entrada em cone convergente e a saída em cone divergente.
+onde assim como na teoria, temos a entrada em cone convergente e a saída em cone divergente.
 
-Diante disso chegamos ao resultado esperado onde pôde-se encontrar a velocidade
-de escoamento e por conseguinte a Vazão volumétricas de forma indireta, utilizando-se variáveis físicas 
-geradas pelo fluido, no caso a pressão e a velocidade. Acelerando-se o fluido para que baixe sua pressão temporariamente.
+Diante disso chegamos ao resultado esperado na qual pôde-se encontrar a velocidade
+do escoamento e por conseguinte a vazão volumétrica de forma indireta, utilizando-se variáveis físicas 
+geradas pelo fluido, no caso a pressão e a velocidade. Acelerando-se o fluido para que sua pressão caia temporariamente.
 
 Os resultados acima demonstrados no capítulo 4, coincidem com o esperado da teoria
 Assim como na teoria é considerado o fluido ideal onde a velocidade é constante,
@@ -250,13 +251,13 @@ não apresenta viscosidade e considerou-se o escoamento estacionário,
 (escoamento constante ao longo do tempo).
 
 # Conclusão
-O Tubo de Venturi é um medidor de vazão com qual podemos verificar mudanças de velocidade e pressão dentro do Tubo.
+O Tubo de Venturi é um medidor de vazão com qual podemos verificar mudanças de velocidade e pressão dentro do tubo.
 O aumento de energia cinética no fluído é compensado pela perda de pressão, isto sendo explicado pela conservação de energia.
 Através do sucesso do experimento realizado, obteve-se a altura(H) para que fosse possível  o cálculo da vazão e velocidade, presentes no ensaio.
 
 Com o método analítico chega-se ao resultado de vazão volumétrica igual a 
-Q = 0,0002 m³/s, pressão  ∆P = 0,058 Pa e velocidades V1 = 0,0170 m/s e V2 = 0,3135 m/s 
-A utilização do tubo de venturi é amplamente empregada na indústria e na medicina como exemplo : Sistema Circulatório, extintores, carburadores dentro outras aplicações 
+Q = 0,0002 m³/s, variação de pressão igual a ∆P = 0,058 Pa e velocidades V1 = 0,0170 m/s e V2 = 0,3135 m/s 
+A utilização do tubo de Venturi é amplamente empregada na indústria e na medicina como exemplo : Sistema Circulatório, extintores, carburadores, dentre outras aplicações.
 
 # Bibliografia
 
