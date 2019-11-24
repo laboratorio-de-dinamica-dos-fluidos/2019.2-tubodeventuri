@@ -14,7 +14,7 @@
 
 # Introdução
 
-O efeito Venturi, conhecido como tubo de Venturi, ocorre quando um fluido em movimento constante dentro de um duto uniforme comprime-se momentaneamente ao encontrar uma zona de estreitamento, na qual ocorre a queda da pressão e consequentemente o aumento da sua velocidade. Se neste ponto, um terceiro duto ou uma sonda for introduzido, ocorrerá uma sucção do fluido contido nessa ligação. Este efeito, demonstrado em 1797, recebe o nome do físico italiano Giovanni Battista Venturi.
+O efeito Venturi, conhecido como tubo de Venturi, ocorre quando um fluido em movimento constante dentro de um duto uniforme comprime-se momentaneamente ao encontrar uma zona de estreitamento, na qual ocorre a queda da pressão e consequentemente o aumento da sua velocidade. Se neste ponto um terceiro duto ou uma sonda for introduzido, ocorrerá uma sucção do fluido contido nessa ligação. Este efeito, demonstrado em 1797, recebe o nome do físico italiano Giovanni Battista Venturi.
 
 O efeito Venturi é explicado pelo Princípio de Bernoulli e pelo Princípio da Continuidade de Massa. Se o fluxo de um fluido é constante, mas sua área de escoamento diminui, então necessariamente sua velocidade aumenta. Pelo teorema da conservação da energia, se a energia cinética aumenta, a energia determinada pelo valor da pressão diminui obrigatoriamente.
 A vazão pode ser determinada a partir do escoamento de um fluido através de determinada seção transversal de um conduto livre (canal, rio ou tubulação aberta) ou de um conduto forçado (tubulação com pressão positiva ou negativa). Isto significa que a vazão representa a rapidez com a qual um volume escoa.
