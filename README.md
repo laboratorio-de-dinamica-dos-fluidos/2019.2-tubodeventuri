@@ -100,7 +100,7 @@ Vazão (Q) é o volume de determinado fluido que passa por uma determinada seç�
 um conduto livre ou forçado, por unidade de tempo. Sendo assim, a rapidez com
 que um volume escoa pode ser dada pelas equações:
 
-![](20191123_221112.jpg)
+![](20191123_221623.jpg)
 
 (Variação de volume sobre variação do tempo)
 
