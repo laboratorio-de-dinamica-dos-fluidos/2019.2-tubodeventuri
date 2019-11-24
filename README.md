@@ -31,7 +31,7 @@ Para a parte experimental do tubo de Venturi, uma possível solução será a co
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSCr4d9JutDYcGWSCqyN3KcO0PGCvsFA-K1tTpWOEKTBsRYfOHJ">
 
-Com o experimento será determinado a velocidade de saída e a vazão analizando o valor final do manômetro de altura.
+Com o experimento, será determinado a velocidade de saída e a vazão analizando o valor final do manômetro de altura.
 
 # Considerações para a Solução
 
