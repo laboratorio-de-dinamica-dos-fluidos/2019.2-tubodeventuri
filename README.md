@@ -210,11 +210,11 @@ A partir da Equação da Continuidade foi possível obter uma relação para as 
 
 ![](20191116_214637.jpg)
 
-##### (A1/A2) V1 = V2
+(A1/A2) V1 = V2
 
-##### (A1/A2) = (0,0092/0,0005) = 18,4
+(A1/A2) = (0,0092/0,0005) = 18,4
 
-##### **18,4 V1 = V2**
+**18,4 V1 = V2**
 
 Com as condições simplificadoras, a equação de Bernoulli pôde ser aplicada, tomando a seguinte forma:
 
@@ -228,25 +228,25 @@ A diferença de pressão ∆P pode ser obtida através do Teorema de Stevin, uma
 
 ![](20191116_213506.jpg)
 
-##### H = 0,005 m
+H = 0,005 m
 
-##### g = 9,8 m/s
+g = 9,8 m/s
 
-##### ρ(ar) = 1,1839 kg/m³ (Temperatura ambiente)
+ρ(ar) = 1,1839 kg/m³ (Temperatura ambiente)
 
-##### **∆P = 0,058 Pa**
+**∆P = 0,058 Pa**
 
 Substituindo esse resultado na expressão para a velocidade, obtém-se os valores:
 
-##### **V1 = 0,0170 m/s**
+**V1 = 0,0170 m/s**
 
-##### **V2 = 0,3135 m/s**
+**V2 = 0,3135 m/s**
 
 A partir das velocidades, a vazão nas seções A1 e A2 é obtida:
 
-##### Q =  V1 . A1 = V2 . A2 
+Q =  V1 . A1 = V2 . A2 
 
-##### **Q = 0,0002 m³/s**
+**Q = 0,0002 m³/s**
 
 # Comparação dos Resultados com a Teoria Envolvida
 
@@ -255,15 +255,15 @@ entre os seus similares, na categoria de medidores de obstrução, o que evidenc
 os testes por sua relativa simplicidade, além de ser o medidor 
 que provoca a menor perda de carga permanente na medida, portanto o menos intrusivo.
 A imagem localizada na parte de execução deste documento apresenta uma construção típica desse instrumento,
-onde assim como na teoria, temos a entrada em cone convergente e a saída em cone divergente.
+na qual assim como na teoria, temos a entrada em cone convergente e a saída em cone divergente.
 
 Diante disso chegamos ao resultado esperado na qual pôde-se encontrar a velocidade
-do escoamento e por conseguinte a vazão volumétrica de forma indireta, utilizando-se variáveis físicas 
-geradas pelo fluido, no caso a pressão e a velocidade. Acelerando-se o fluido para que sua pressão caia temporariamente.
+do escoamento, e por conseguinte, a vazão volumétrica de forma indireta, utilizando-se variáveis físicas 
+geradas que caracterizam o fluido, no caso a pressão e a velocidade, e acelerando o fluido para que sua pressão caia temporariamente.
 
-Os resultados acima demonstrados no capítulo 4, coincidem com o esperado da teoria
-Assim como na teoria é considerado o fluido ideal onde a velocidade é constante,
-não apresenta viscosidade e considerou-se o escoamento estacionário, 
+Os resultados acima demonstrados no capítulo 4, coincidem com o resultado teórico esperado.
+Assim como na teoria, foi considerado um fluido ideal na qual a velocidade é constante,
+não apresenta viscosidade, e o escoamento é estacionário
 (escoamento constante ao longo do tempo).
 
 # Conclusão
@@ -277,16 +277,12 @@ A utilização do tubo de Venturi é amplamente empregada na indústria e na med
 
 # Bibliografia
 
-@misc{
-title = {Tubo de Venturi caseiro e equação de Bernoulli.};
+@misc{title = {Tubo de Venturi caseiro e equação de Bernoulli.};
 url = {https://www.youtube.com/watch?v=R1kjfHtl9xc&t=71s};
-urlacessdate = {31 set 2019};
-}
+urlacessdate = {31 set 2019};}
 
 
-@misc{
-title = {“Apostilas e Material de Aula”, Escola de Engenharia –
-UFRGS} ;
+@misc{title = {“Apostilas e Material de Aula”, Escola de Engenharia –
+UFRGS};
 url = {http://www.mecanica.ufrgs.br/disciplinas};
-urlacessdate = {2007-2}};
-}
+urlacessdate = {2007-2}};}
