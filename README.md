@@ -21,7 +21,7 @@ A vazão pode ser determinada a partir do escoamento de um fluido através de de
 
 # Objetivo
 
-Este experimento tem o intuito de medir a **velocidade** e a **vazão** de um fluxo de um fluido incompressível através da variação da pressão durante a passagem deste fluido por um tubo de seção mais larga e depois por outro de seção mais estreita, sendo estes efeitos explicados pelo Princípio de Bernoulli e pelo o Princípio da Continuidade de Massa.
+Este experimento tem o intuito de medir a **velocidade** e a **vazão** de um fluxo de um fluido incompressível, através da variação da pressão durante a passagem deste fluido por um tubo de seção mais larga e depois por outro de seção mais estreita, sendo estes efeitos explicados pelo Princípio de Bernoulli e pelo o Princípio da Continuidade de Massa.
 
 # Requisitos de Solução
 
