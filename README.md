@@ -35,7 +35,7 @@ Com o experimento, será determinado a velocidade de saída e a vazão analizand
 
 # Considerações para a Solução
 
-Primeiramente para conseguirmos todas as medições necessárias para que os objetivos se concretizem, adotaremos certa condições simplificadoras:
+Primeiramente, para conseguirmos todas as medições necessárias para que os objetivos se concretizem, adotaremos certas condições simplificadoras:
 
 1. Escoamento permanente;
 2. Escoamento incompressível;
