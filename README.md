@@ -115,9 +115,13 @@ As propriedades do escoamento que descrevem o seu comportamento podem ser determ
 Os termos da equação são:
 
 V = velocidade do fluido ao longo do duto
+
 g = aceleração da gravidade
+
 h = altura em relação a um referencial
+
 P = pressão do fluido 
+
 ρ = massa específica do fluido
 
 A variação de pressão pode ser calculada pelo Teorema de Stevin:
@@ -278,11 +282,11 @@ A utilização do tubo de Venturi é amplamente empregada na indústria e na med
 # Bibliografia
 
 @misc{title = {Tubo de Venturi caseiro e equação de Bernoulli.};
-url = {https://www.youtube.com/watch?v=R1kjfHtl9xc&t=71s};
+{url = {https://www.youtube.com/watch?v=R1kjfHtl9xc&t=71s};
 urlacessdate = {31 set 2019};}
 
 
 @misc{title = {“Apostilas e Material de Aula”, Escola de Engenharia –
 UFRGS};
-url = {http://www.mecanica.ufrgs.br/disciplinas};
-urlacessdate = {2007-2}};}
+{url = {http://www.mecanica.ufrgs.br/disciplinas};
+urlacessdate = {2007-2};}
