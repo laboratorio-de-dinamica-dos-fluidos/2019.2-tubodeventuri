@@ -281,12 +281,12 @@ A utilização do tubo de Venturi é amplamente empregada na indústria e na med
 
 # Bibliografia
 
-[1]FOX, Robert W., MCDONALD, Alan T., PRITCHARD, Philip J.. **Introdução à Mecânica dos Fluidos**. 6 ed. LTC, 2004.
+[1] FOX, Robert W., MCDONALD, Alan T., PRITCHARD, Philip J.. **Introdução à Mecânica dos Fluidos**. 6 ed. LTC, 2004.
 
-[2]Tubo de Venturi caseiro e equação de Bernoulli.
+[2] Tubo de Venturi caseiro e equação de Bernoulli.
 <https://www.youtube.com/watch?v=R1kjfHtl9xc&t=71s>
 Acesso em: 31 set 2019.
 
-[3]“Apostilas e Material de Aula”, Escola de Engenharia –UFRGS.
+[3] “Apostilas e Material de Aula”, Escola de Engenharia – UFRGS.
 <http://www.mecanica.ufrgs.br/disciplinas>
 
