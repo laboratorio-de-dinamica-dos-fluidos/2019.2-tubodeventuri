@@ -112,7 +112,7 @@ As propriedades do escoamento que descrevem o seu comportamento podem ser determ
 
 ![](20191123_220953.jpg)
 
-Os termos da Equação são:
+Os termos da equação são:
 
 V = velocidade do fluido ao longo do duto
 g = aceleração da gravidade
@@ -210,11 +210,11 @@ A partir da Equação da Continuidade foi possível obter uma relação para as 
 
 ![](20191116_214637.jpg)
 
-(A1/A2) V1 = V2
+#####(A1/A2) V1 = V2
 
-(A1/A2) = (0,0092/0,0005) = 18,4
+#####(A1/A2) = (0,0092/0,0005) = 18,4
 
-**18,4 V1 = V2**
+#####**18,4 V1 = V2**
 
 Com as condições simplificadoras, a equação de Bernoulli pôde ser aplicada, tomando a seguinte forma:
 
@@ -228,25 +228,25 @@ A diferença de pressão ∆P pode ser obtida através do Teorema de Stevin, uma
 
 ![](20191116_213506.jpg)
 
-H = 0,005 m
+#####H = 0,005 m
 
-g = 9,8 m/s
+#####g = 9,8 m/s
 
-ρ(ar) = 1,1839 kg/m³ (Temperatura ambiente)
+#####ρ(ar) = 1,1839 kg/m³ (Temperatura ambiente)
 
-**∆P = 0,058 Pa**
+#####**∆P = 0,058 Pa**
 
 Substituindo esse resultado na expressão para a velocidade, obtém-se os valores:
 
-**V1 = 0,0170 m/s**
+#####**V1 = 0,0170 m/s**
 
-**V2 = 0,3135 m/s**
+#####**V2 = 0,3135 m/s**
 
 A partir das velocidades, a vazão nas seções A1 e A2 é obtida:
 
-Q =  V1 . A1 = V2 . A2 
+#####Q =  V1 . A1 = V2 . A2 
 
-**Q = 0,0002 m³/s**
+#####**Q = 0,0002 m³/s**
 
 # Comparação dos Resultados com a Teoria Envolvida
 
@@ -272,8 +272,8 @@ O aumento de energia cinética no fluído é compensado pela perda de pressão, 
 Através do sucesso do experimento realizado, obteve-se a altura(H) para que fosse possível  o cálculo da vazão e velocidade, presentes no ensaio.
 
 Com o método analítico chega-se ao resultado de vazão volumétrica igual a 
-Q = 0,0002 m³/s, variação de pressão igual a ∆P = 0,058 Pa e velocidades V1 = 0,0170 m/s e V2 = 0,3135 m/s 
-A utilização do tubo de Venturi é amplamente empregada na indústria e na medicina como exemplo : Sistema Circulatório, extintores, carburadores, dentre outras aplicações.
+**Q = 0,0002 m³/s**, variação de pressão igual a **∆P = 0,058 Pa** e velocidades **V1 = 0,0170 m/s** e **V2 = 0,3135 m/s**.
+A utilização do tubo de Venturi é amplamente empregada na indústria e na medicina, como por exemplo: Sistema Circulatório, extintores, carburadores, dentre outras aplicações.
 
 # Bibliografia
 
