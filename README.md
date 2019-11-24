@@ -25,7 +25,7 @@ Este experimento tem o intuito de medir a **velocidade** e a **vazão** de um fl
 
 # Requisitos de Solução
 
-- Avaliação de possíveis soluções para cumprir os objetivos do sistema:i
+- Avaliação de possíveis soluções para cumprir os objetivos do sistema:
 
 Para a parte experimental do tubo de Venturi, uma possível solução será a construção de um protótipo de túnel de vento acoplado a um manômetro de altura de forma parecida a imagem mostrada abaixo. O protótipo foi tomado como solução devido ao fato da indisponibilidade do túnel de vento presente no Laboratório de Termofluidos da FGA.
 
