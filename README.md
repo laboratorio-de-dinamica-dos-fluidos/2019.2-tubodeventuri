@@ -287,6 +287,6 @@ A utilização do tubo de Venturi é amplamente empregada na indústria e na med
 <https://www.youtube.com/watch?v=R1kjfHtl9xc&t=71s>
 Acesso em: 09 set 2019.
 
-[3] “Apostilas e Material de Aula”, Escola de Engenharia – UFRGS.
-<http://www.mecanica.ufrgs.br/disciplinas>
+[3] SCHNEIDER, “**Apostilas e Material de Aula**”, Escola de Engenharia –
+UFRGS, 2007-2. <http://www.mecanica.ufrgs.br/disciplinas> 
 
